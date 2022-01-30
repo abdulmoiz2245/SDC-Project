@@ -1,1 +1,2 @@
-C# UI Academy.
+SDC Project 
+E-Learning Mangment C# Windows Form 
